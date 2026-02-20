@@ -1,0 +1,5 @@
+Retinal Vessel Extraction
+Comparison: Sauvola vs Niblack
+
+Niblack Sensitivity: 0.9193914807298501
+Sauvola Sensitivity: 0.4140770791073371

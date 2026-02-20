@@ -1,0 +1,4 @@
+Project 3: Retinal Vessel Extraction
+------------------------------------
+Niblack Sensitivity: 0.9121703853951675
+Sauvola Sensitivity: 0.10908722109529043
